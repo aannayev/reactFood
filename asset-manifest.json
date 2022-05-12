@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/aannayev/reactFood/static/css/main.dd68e29d.css",
+    "main.js": "/aannayev/reactFood/static/js/main.8d2582ff.js",
+    "index.html": "/aannayev/reactFood/index.html",
+    "main.dd68e29d.css.map": "/aannayev/reactFood/static/css/main.dd68e29d.css.map",
+    "main.8d2582ff.js.map": "/aannayev/reactFood/static/js/main.8d2582ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd68e29d.css",
+    "static/js/main.8d2582ff.js"
+  ]
+}
